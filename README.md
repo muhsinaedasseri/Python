@@ -1,4 +1,4 @@
 # Python
-###Python fundamentals
+## Python fundamentals
 ## data structures
 ## conditional and looping statements
